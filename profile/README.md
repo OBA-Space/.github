@@ -9,7 +9,7 @@
 
 ## 🛰️ About us
 
-**OBA Space** is an aerospace startup based in Málaga, Spain, founded in 2024 by engineer **Carlos Martín**. We currently have a multidisciplinary team of over 10 specialists working on space hardware R&D.
+**OBA Space** is an aerospace startup based in Málaga, Spain, founded in 2024 by engineer and technology entrepreneur **Carlos Martín**. We currently have a multidisciplinary team of over 10 specialists working on space hardware R&D.
 
 Our core technology focuses on the design and deployment of reusable infrastructures to optimize the Delta-V (Δv) required in orbital transfer maneuvers and the active capture of space debris.
 
