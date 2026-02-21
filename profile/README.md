@@ -2,12 +2,12 @@
   <img src="https://oba.space/corporate-agency/images/logo.png" alt="OBA Space Logo" width="120"/>
   <br>
   <h1>OBA Space (Orbital Boost Aerospace) 🚀</h1>
-  <p><h3>Extra-LEO logistics architectures and orbital remediation</h3></p>
+  <p><h3>Extra-LEO logistics architectures and orbital debris remediation</h3></p>
 </div>
 
 ---
 
-## 🛰️ Executive Summary
+## 🛰️ About us
 
 **OBA Space** is an aerospace startup based in Málaga, Spain, founded in 2024 by engineer **Carlos Martín**. We currently have a multidisciplinary team of over 10 specialists working on space hardware R&D.
 
@@ -31,7 +31,7 @@ Development of a dedicated collector vehicle (pod) for environmental remediation
 Our team tackles complex challenges across multiple disciplines:
 - **Electromagnetic Systems:** Design of mass drivers and superconducting magnetic topologies.
 - **GNC (Guidance, Navigation, and Control):** Attitude estimation coupled to impulsive nonlinear dynamics.
-- **Thermofluids:** Management of the thermal gradient generated during electromagnetic firing sequences and the capture pod's stress.
+- **Thermofluids:** Management of the thermal gradient generated during electromagnetic sequences and the capture pod's stress.
 - **Flight Software:** Fault-tolerant architecture, real-time telemetry processing, and vision systems for non-cooperative rendezvous (debris).
 
 ---
